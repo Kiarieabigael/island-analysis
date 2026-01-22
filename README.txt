@@ -1,7 +1,8 @@
 
 Data Source:
-Ghosh, Iman. "Visualizing the World’s 100 Biggest Islands." Visual Capitalist, Visual Capitalist, 19 Aug. 2021, www.visualcapitalist.com/visualizing-100-worlds-biggest-islands/.
+Jan Diehm and Amber Thomas. "Someone clever once said Women were not allowed POCKETS."
+August 2018. 
 
-Based upon a map by David Garcia. 
+https://pudding.cool/2018/08/pockets/
+https://github.com/the-pudding/data/tree/master/pockets
 
-Island areas from Britannica and Wikipedia.
